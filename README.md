@@ -1,1 +1,1 @@
-ALL IN ONE ECOSYSTEM 
+All in One Ecosystem for Efado Market Hubs: a unified digital platform connecting marketplaces, community savings, education, and employer-employee networks— delivering end-to-end orchestration, real-time insights, and seamless hub experiences.
