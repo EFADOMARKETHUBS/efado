@@ -1,1 +1,1 @@
-All in One Ecosystem for Efado Market Hubs: a unified digital platform connecting marketplaces, community savings, education, and employer-employee networks— delivering end-to-end orchestration, real-time insights, and seamless hub experiences.
+ Efado Market Hubs is a unified digital platform connecting marketplaces, community savings, education, and employer-employee networks— delivering end-to-end orchestration, real-time insights, and seamless hub experiences.
