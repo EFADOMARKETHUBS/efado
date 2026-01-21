@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  srcDir: 'src/',
   reactStrictMode: true,
   images: {
     remotePatterns: [
@@ -18,7 +19,6 @@ const nextConfig = {
     ],
   },
   webpack: (config, { isServer }) => {
-    // This is to ensure that any server-only packages are not included in the client-side bundle.
     if (!isServer) {
         config.resolve.fallback = {
             ...config.resolve.fallback,
